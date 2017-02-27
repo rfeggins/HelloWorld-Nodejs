@@ -1,4 +1,6 @@
 
+# Added line to test trigger
+
 # Getting started with Node.js on Bluemix
 By following this guide, you'll set up a development environment, deploy an app locally and on Bluemix, and integrate a Bluemix database service in your app.
 

@@ -1,4 +1,5 @@
 
+# Added another line
 # Added line to test trigger
 
 # Getting started with Node.js on Bluemix
